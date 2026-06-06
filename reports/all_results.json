@@ -1,0 +1,12 @@
+[
+    {
+        "model_key": "densenet121",
+        "model_name": "DenseNet121",
+        "img_size": 224,
+        "checkpoint": "D:\\work\\Projects\\CNN_Project\\laliga_local_outputs\\laliga_outputs_local\\models\\best_laliga_logo_densenet121.keras",
+        "finished_at": "2026-06-04T20:21:58",
+        "accuracy": 0.9998078942298889,
+        "loss": 0.7442775368690491,
+        "top5": 1.0
+    }
+]
